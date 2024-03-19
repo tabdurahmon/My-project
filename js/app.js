@@ -2,27 +2,27 @@ const projects = [
   {
     title: "My Cart",
     githubLink: "https://github.com/tabdurahmon/profil",
-    vercelLink: "https://vercel.com/abdurahmons-projects-67cedc3c/profil",
+    vercelLink: "https://profil-rose.vercel.app/",
   },
   {
     title: "Blog preview",
     githubLink: "https://github.com/tabdurahmon/block-preview",
-    vercelLink: "https://vercel.com/abdurahmons-projects-67cedc3c/blog-preview",
+    vercelLink: "https://blog-preview-two.vercel.app/",
   },
   {
     title: "Pixer",
     githubLink: "https://github.com/tabdurahmon/Pixer",
-    vercelLink: "https://vercel.com/abdurahmons-projects-67cedc3c/pixer",
+    vercelLink: "https://pixer-two-lilac.vercel.app/",
   },
   {
     title: "Products",
     githubLink: "https://github.com/tabdurahmon/Product",
-    vercelLink: "https://vercel.com/abdurahmons-projects-67cedc3c/product",
+    vercelLink: "https://product-gules.vercel.app/",
   },
   {
     title: "Snap",
     githubLink: "https://github.com/tabdurahmon/snap",
-    vercelLink: "https://vercel.com/abdurahmons-projects-67cedc3c/snap",
+    vercelLink: "https://snap-kappa-nine.vercel.app/",
   },
 ];
 
