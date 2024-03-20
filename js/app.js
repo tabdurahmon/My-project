@@ -24,6 +24,11 @@ const projects = [
     githubLink: "https://github.com/tabdurahmon/snap",
     vercelLink: "https://snap-kappa-nine.vercel.app/",
   },
+  {
+    title: "Calculator",
+    githubLink: "https://github.com/tabdurahmon/tip-colculator",
+    vercelLink: "https://tip-colculator.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
