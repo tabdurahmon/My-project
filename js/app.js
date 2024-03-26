@@ -29,8 +29,14 @@ const projects = [
     githubLink: "https://github.com/tabdurahmon/tip-colculator",
     vercelLink: "https://tip-colculator.vercel.app/",
   },
-];
 
+  {
+    title: "Bacground-video",
+    githubLink: "https://github.com/tabdurahmon/tip-colculator",
+    vercelLink:
+      "https://vercel.com/abdurahmons-projects-67cedc3c/bacroud-video",
+  },
+];
 const template = document.querySelector("template");
 const worksList = document.querySelector(".works__list");
 
