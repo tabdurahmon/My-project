@@ -35,6 +35,11 @@ const projects = [
     githubLink: "https://github.com/tabdurahmon/bacroud-video",
     vercelLink: "https://bacroud-video.vercel.app/",
   },
+  {
+    title: "Castaway",
+    githubLink: "https://github.com/tabdurahmon/castaway",
+    vercelLink: "https://castaway-mauve.vercel.app/",
+  },
 ];
 const template = document.querySelector("template");
 const worksList = document.querySelector(".works__list");
