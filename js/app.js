@@ -40,6 +40,16 @@ const projects = [
     githubLink: "https://github.com/tabdurahmon/castaway",
     vercelLink: "https://castaway-mauve.vercel.app/",
   },
+  {
+    title: "Animations",
+    githubLink: "https://github.com/tabdurahmon/animations",
+    vercelLink: "  https://animations-rose.vercel.app/",
+  },
+  {
+    title: "create-x servis",
+    githubLink: "https://github.com/tabdurahmon/servis",
+    vercelLink: "https://servis-eta.vercel.app/",
+  },
 ];
 const template = document.querySelector("template");
 const worksList = document.querySelector(".works__list");
