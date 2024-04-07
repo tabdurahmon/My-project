@@ -50,6 +50,11 @@ const projects = [
     githubLink: "https://github.com/tabdurahmon/servis",
     vercelLink: "https://servis-eta.vercel.app/",
   },
+  {
+    title: "Myteam",
+    githubLink: "https://github.com/tabdurahmon/Myteams",
+    vercelLink: "https://myteams-green.vercel.app/",
+  },
 ];
 const template = document.querySelector("template");
 const worksList = document.querySelector(".works__list");
